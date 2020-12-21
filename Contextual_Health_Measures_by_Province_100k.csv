@@ -1,0 +1,14 @@
+﻿OBJECTID_1,postal,Name_EN,Nom_Fr,PRUID,Province_territory,PRUID_1,Pop,RuralPop,Seniors,FamilyDrPer100k,Unemployment,Immigrantss,Aboriginal,PostSecEd,LowIncome,FoodInsecurity,Diabetes,COPD,HighBP,MoodDisorders,PatientDays,cases,cases_100
+1,MB,Manitoba,Manitoba,46,Manitoba,46,1338109,26.8,15.2,112,5.4,18.3,18,59.8,17.2,7.3,6.4,3.9,17.9,8.5,16.8,14907,1114.034806
+2,SK,Saskatchewan,Saskatchewan,47,Saskatchewan,47,1163925,33.2,15,113,6.3,10.5,16.3,60.4,12.1,7.4,7.3,3.8,18.5,8.4,13.9,7047,605.4513822
+3,AB,Alberta, ,48,Alberta,48,4286134,16.4,12.4,126,7.8,21.2,6.5,65.7,11.2,7.9,5.2,4,14.6,8.4,16.6,50801,1185.240592
+4,BC,British Columbia,Colombie-Britannique,59,British Columbia,59,4817160,13.6,18.3,134,5.1,28.3,5.9,66.4,15,7.6,5.9,3.7,14.9,9.7,13.2,29086,603.7997492
+5,NU,Nunavut,Nunavut,62,Nunavut,62,37996,51.1,4,31,14.6,2.6,85.9,43,,40,3.7,3.8,11.4,6,0,155,407.9376777
+6,NT,Northwest Territories,Territoires du Nord-Ouest,61,Northwest Territories,61,44520,35.9,7.3,78,6.6,9,50.7,60,,14.2,6.1,2.5,13.3,6.6,9.3,15,33.69272237
+7,YT,Yukon,Yukon,60,Yukon,60,38459,39.4,12.4,159,3.6,12.6,23.3,69.3,,9.8,5.4,4.5,14.1,9.6,25.9,39,101.4066928
+8,ON,Ontario,Ontario,35,Ontario,35,14193384,13.8,16.7,116,6,29.1,2.8,68.2,16.1,7.7,7.4,4.1,18.2,8.7,15.9,107883,760.093576
+9,QC,Québec,Québec,24,Quebec,24,8394034,19.5,18.5,122,6.1,13.7,2.3,72.8,11.9,7.5,7,4.1,17,5.6,,135430,1613.407808
+10,NB,New Brunswick,Nouveau-Brunswick,13,New Brunswick,13,759655,51,20.1,133,8.1,4.6,4,61.8,13.6,8.9,8,6,21.6,10.3,17.6,453,59.6323331
+11,NS,Nova Scotia,Nouvelle-Écosse,12,Nova Scotia,12,953869,42.6,19.8,134,8.4,6.1,5.7,67.2,13.7,10.8,9.3,6.1,20.9,10.9,16.7,1243,130.311395
+12,NL,Newfoundland and Labrador,Terre-Neuve-et-Labrador,10,Newfoundland and Labrador,10,528817,41.9,19.8,138,14.8,2.4,8.9,66.2,11.5,6.9,10.1,4.3,23.7,9.8,19.7,324,61.26883213
+13,PE,Prince Edward Island,|Île du Prince-Édouard,11,Prince Edward Island,11,152021,54.9,19,112,9.8,6.4,2,65.9,11.2,10.1,8.5,5.1,19.3,7.4,19.6,69,45.38846607
